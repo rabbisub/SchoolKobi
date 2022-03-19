@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SchoolKobi</string>
+    <string name="text1">Bangla sokol kobita</string>
+    <string name="text2">Class 1 to 12</string>
+    <string name="text3">11 and 12</string>
+
+    <string name="button1">Class 1 to 5</string>
+    <string name="button2">Class 6 to 10</string>
+
+
+    <string name="button3">Class 11 and 12</string>
+    <string name="elevenText">Class 11 and 12</string>
+    <string name="eleven1">০১ কালকেতুর ভােজন </string>
+    <string name="eleven2">০২ ঋতু-বৰ্ণন</string>
+    <string name="eleven3">০৩ স্বদেশ </string>
+    <string name="eleven4">০৪ বিভীষণের প্রতি মেঘনাদ</string>
+    <string name="eleven5">০৫ সুখ</string>
+    <string name="eleven6">০৬ মানব-বন্দনা </string>
+    <string name="eleven7">০৭ সােনার তরী </string>
+    <string name="eleven8">০৮ ঐকতান</string>
+    <string name="eleven9">০৯ নবান্ন</string>
+    <string name="eleven10">১০জীবন-বন্দনা </string>
+    <string name="eleven11">১১ সাম্যবাদী</string>
+    <string name="eleven12">১২ এই পৃথিবীতে এক স্থান আছে</string>
+    <string name="eleven13">১৩ নতুন কবি</string>
+    <string name="eleven14">১৪ তাহারেই পড়ে মনে</string>
+    <string name="eleven15">১৫ আগে কী সুন্দর দিন কাটাইতাম</string>
+    <string name="eleven16">১৬ সেই অস্ত্র</string>
+    <string name="eleven17">১৭ পাঞ্জেরি</string>
+    <string name="eleven18">১৮ আলাে চাই</string>
+    <string name="eleven19">১৯ আঠারাে বছর বয়স</string>
+    <string name="eleven20">২০ ফেব্রুয়ারি ১৯৬৯</string>
+    <string name="eleven21"> ২১ তােমার আপন পতাকা</string>
+    <string name="eleven22">২২ হাড় </string>
+    <string name="eleven23">২৩ আমি কিংবদন্তির কথা বলছি</string>
+    <string name="eleven24"> ২৪ নূরলদীনের কথা মনে পড়ে যায়</string>
+    <string name="eleven25">২৫ ছবি</string>
+    <string name="eleven26">২৬ লােক-লােকান্তর </string>
+    <string name="eleven27">২৭ ভূমিহীন কৃষিজীবী ইচ্ছে তার </string>
+    <string name="eleven28">২৮ রক্তে আমার অনাদি অস্থি</string>
+    <string name="eleven29">২৯ ব্ল্যাক-আউটের পূর্ণিমায়</string>
+    <string name="eleven30">৩০ শান্তির গান</string>
+
+
+    <string name="class1">Class 1</string>
+    <string name="class2">Class 2</string>
+    <string name="class3">Class 3</string>
+    <string name="class4">Class 4</string>
+    <string name="class5">Class 5</string>
+
+    <string name="class6">Class 6</string>
+    <string name="class7">Class 7</string>
+    <string name="class8">Class 8</string>
+    <string name="class9">Class 9 and 10</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="class_8_ar_sokol_kobita">CLASS 8 ar sokol kobita</string>
+</resources>

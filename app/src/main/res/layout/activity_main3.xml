@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/six"
+    tools:context=".MainActivity3">
+
+    <Button
+        android:id="@+id/class6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginRight="35dp"
+        android:background="#8043A047"
+        android:text="@string/class6" />
+
+    <Button
+        android:id="@+id/class7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:background="#8043A047"
+        android:text="@string/class7" />
+
+    <Button
+        android:id="@+id/class8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:background="#8043A047"
+        android:text="@string/class8" />
+
+    <Button
+        android:id="@+id/class9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:background="#8043A047"
+        android:text="@string/class9" />
+
+
+
+</LinearLayout>
